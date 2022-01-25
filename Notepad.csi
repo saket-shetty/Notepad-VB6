@@ -1,0 +1,9 @@
+[History]
+1=#P0#=mb	#P1#=rtText_Change	#P2#=Notepad/frmRichTextBox/rtText_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193722	#P7#=0	#P8#=4	.
+2=#P0#=mb	#P1#=MnuPrint_Click	#P2#=Notepad/frmRichTextBox/MnuPrint_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193330	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=MnuSaveAs_Click	#P2#=Notepad/frmRichTextBox/MnuSaveAs_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193308	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=Save_Click	#P2#=Notepad/frmRichTextBox/Save_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193258	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=Open_Click	#P2#=Notepad/frmRichTextBox/Open_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193246	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=MnuNewWindow_Click	#P2#=Notepad/frmRichTextBox/MnuNewWindow_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193232	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=New_Click	#P2#=Notepad/frmRichTextBox/New_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193133	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=Form_Load	#P2#=Notepad/frmRichTextBox/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220125193028	#P7#=0	#P8#=6	.
